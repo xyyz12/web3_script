@@ -75,8 +75,11 @@ https://goerli.etherscan.io/address/0x0e9B63A28d26180DBf40E8c579af3aBf98aE05C5#w
 
 看完abi发现，信息不全，在网站 chunk-vendor-xxx.js 文件中定位到了完整的 ABI 信息。
 找的途径
+
 1、去github上找代码，在各类js文件中搜”abi”
+
 2、解析4字节函数选择器
+
 3、搜索网页源码的abi信息
 
 ![image](https://github.com/xyyz12/web3_script/assets/91812763/3c774bbe-afa7-436d-b70b-965c1d4b3132)
