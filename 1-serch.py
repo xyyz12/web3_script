@@ -5,7 +5,7 @@ from env import *
 
 # Your Infura Project ID
 INFURA_SECRET_KEY = ENV.INFURA_SECRET_KEY.value
-I = "http://127.0.0.1:4780"
+I = "http://127.0.0.1:xxxx"
 # get w3 endpoint by network name
 def get_w3_by_network(network='mainnet'):
     infura_url = f'https://{network}.infura.io/v3/{INFURA_SECRET_KEY}' # 接入 Infura 节点
