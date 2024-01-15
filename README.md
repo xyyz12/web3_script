@@ -37,12 +37,9 @@
 
 ![image](https://github.com/xyyz12/web3_script/assets/91812763/83a1dea3-6d6e-4dcd-b48d-38d1645c7f4e)
 
+4、函数实例化来完成这个操作
+![image](https://github.com/xyyz12/web3_script/assets/91812763/cd1a3d5f-3333-4949-9cca-1876c20c6bab)
 
 
-
-
-
-
-
-
+donate:0x43C1CfB2F164251fc9b6c958b64485D2b94870C4
 
