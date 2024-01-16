@@ -89,12 +89,14 @@ https://goerli.etherscan.io/address/0x0e9B63A28d26180DBf40E8c579af3aBf98aE05C5#w
 
 ![1c7c447ce0e5a665bf0a0fa5515a56d](https://github.com/xyyz12/web3_script/assets/91812763/01d1a3c5-5f8a-46eb-bbaa-22bec2365197)
 
-在inputdata 中看refuel转账模块的函数
+练习题：在inputdata 中看refuel转账模块的函数
 
 ![1705375649291](https://github.com/xyyz12/web3_script/assets/91812763/c932b68e-8583-4ae1-9100-11d995119c81)
 
+通过depositnative这个函数实现了跨链，弄一个destiid变量，在mian里面设置就行
 
-通过depositnative这个函数实现了跨链
+![1705376118455](https://github.com/xyyz12/web3_script/assets/91812763/8d88c572-156a-4220-9314-51ef3e7db70f)
 
+![1705376146848](https://github.com/xyyz12/web3_script/assets/91812763/7dbc1777-7abb-4ed8-8827-075f70d6bfc7)
 
 
