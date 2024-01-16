@@ -94,7 +94,7 @@ https://goerli.etherscan.io/address/0x0e9B63A28d26180DBf40E8c579af3aBf98aE05C5#w
 ![1705375649291](https://github.com/xyyz12/web3_script/assets/91812763/c932b68e-8583-4ae1-9100-11d995119c81)
 
 
-
+通过depositnative这个函数实现了跨链
 
 
 
