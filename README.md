@@ -40,10 +40,15 @@
 4、函数实例化来完成这个操作
 ![image](https://github.com/xyyz12/web3_script/assets/91812763/cd1a3d5f-3333-4949-9cca-1876c20c6bab)
 
-
 donate:0x43C1CfB2F164251fc9b6c958b64485D2b94870C4
 
+Zksync测试网桥      https://portal.txsync.io/bridge/
 
+![image](https://github.com/xyyz12/web3_script/assets/91812763/aef4d3ea-0080-4177-ac91-99f1dad4c160)
+
+通过requestL2Transaction函数，实现主网geril代币转移到zk  geril上，与原作者交易平台可能不同，做个记录
+
+donate:0x43C1CfB2F164251fc9b6c958b64485D2b94870C4
 
 1、确定合约地址
 
