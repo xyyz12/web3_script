@@ -93,7 +93,7 @@ https://goerli.etherscan.io/address/0x0e9B63A28d26180DBf40E8c579af3aBf98aE05C5#w
 
 ![1705375649291](https://github.com/xyyz12/web3_script/assets/91812763/c932b68e-8583-4ae1-9100-11d995119c81)
 
-通过depositnative这个函数实现了跨链，弄一个destiid变量，在mian里面设置就行
+通过depositnative这个函数实现了跨链，我从主网到arb手动试了一下。弄一个destiid变量，在mian里面设置就可实现自动化
 
 ![1705376118455](https://github.com/xyyz12/web3_script/assets/91812763/8d88c572-156a-4220-9314-51ef3e7db70f)
 
