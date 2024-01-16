@@ -89,8 +89,9 @@ https://goerli.etherscan.io/address/0x0e9B63A28d26180DBf40E8c579af3aBf98aE05C5#w
 
 ![1c7c447ce0e5a665bf0a0fa5515a56d](https://github.com/xyyz12/web3_script/assets/91812763/01d1a3c5-5f8a-46eb-bbaa-22bec2365197)
 
+在inputdata 中看refuel转账模块的函数
 
-
+![1705375649291](https://github.com/xyyz12/web3_script/assets/91812763/c932b68e-8583-4ae1-9100-11d995119c81)
 
 
 
