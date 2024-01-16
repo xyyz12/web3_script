@@ -99,4 +99,5 @@ https://goerli.etherscan.io/address/0x0e9B63A28d26180DBf40E8c579af3aBf98aE05C5#w
 
 ![1705376146848](https://github.com/xyyz12/web3_script/assets/91812763/7dbc1777-7abb-4ed8-8827-075f70d6bfc7)
 
-
+什么是eip--1559
+https://medium.com/@CryptoSimons/%E8%AE%A9%E7%9F%BF%E5%B7%A5%E4%B8%80%E8%84%B8%E6%87%B5%E9%80%BC%E7%9A%84eip-1559-%E5%8D%8F%E8%AE%AE-%E7%BB%99%E4%BB%A5%E5%A4%AA%E5%9D%8Agas%E8%B4%B9%E7%94%A8%E5%B8%A6%E6%9D%A5%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8C%96-ac594672b2e3
